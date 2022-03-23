@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    font-family: Andale Mono, monospace;
+    padding: 20px 35px;
+    background-color: #00094B;
+    color: white;
+}
+
+footer {
+    font-family: Andale Mono, monospace;
+    padding: 20px 35px;
+    background-color: #00094B;
+    color: white;
+    margin: 0;
+}
+
+.pic-wide {
+    margin: 10px;
+    height: 300px;
+    width: 450px;
+}
+
+.pic-tall {
+    margin: 10px;
+    height: 450px;
+    width: 350px;
+}
+
