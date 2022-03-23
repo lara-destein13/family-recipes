@@ -4,18 +4,18 @@
 }
 
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    font-family: Andale Mono, monospace;
+    font-family: Snell Roundhand, cursive;
+    font-size: 50px;
     padding: 20px 35px;
     background-color: #00094B;
     color: white;
 }
 
 footer {
-    font-family: Andale Mono, monospace;
     padding: 20px 35px;
     background-color: #00094B;
     color: white;
