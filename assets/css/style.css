@@ -15,13 +15,6 @@ header {
     color: white;
 }
 
-footer {
-    padding: 20px 35px;
-    background-color: #00094B;
-    color: white;
-    margin: 0;
-}
-
 .pic-wide {
     margin: 10px;
     height: 300px;
@@ -33,4 +26,36 @@ footer {
     height: 450px;
     width: 350px;
 }
+
+#space-between {
+    display: inline-block;
+    height: 450px;
+    width: 190px;
+}
+
+.recipes {
+    margin: 10px;
+    line-height: 1.5em;
+}
+
+.recipes h2 {
+    padding-bottom: 20px;
+}
+
+.recipes h3 {
+    padding-top: 10px;
+}
+
+.recipes li {
+    margin-left: 25px;
+}
+
+footer {
+    padding: 20px 35px;
+    background-color: #00094B;
+    color: white;
+    margin: 0;
+}
+
+
 
