@@ -29,8 +29,9 @@ header {
 
 #space-between {
     display: inline-block;
+    border: solid red 2px;
     height: 450px;
-    width: 190px;
+    width: 350px;
 }
 
 .recipes {
