@@ -32,6 +32,8 @@ header {
     border: solid red 2px;
     height: 450px;
     width: 350px;
+    vertical-align: top;
+    margin-top: 7px;
 }
 
 .recipes {
